@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    model-viewer{
+    width:50%;
+    height:600px;
+    background-color:rgb(246, 241, 241);
+    }
